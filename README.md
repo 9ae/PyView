@@ -5,12 +5,10 @@ PyView
 
 <h2>Intervals</h2>
 <p> Intervals are blocks of time during the experiment. The type of interval determines the types of actions that may occur in that time. Types of interval include: </p>
-	<ul>
 	<li><b>Wait</b> During a wait nothing happens. No lever press are rewarded or tone delievered. Ex: ITI</li>
 	<li><b>Tone</b> A tone is played throughout the duration of this interval. At the start of this interval the associated valves are also opened.</li>
 	<li><b>Reward</b> If a lever is pressed during this interval, one of the active valves will deliver water.</li>
 	<li><b>No Go</b> At the end of this interval a reward is given, only if the lever was never pressed during this interval </li>
-	</ul>
 <p>Each interval consist of the following properties:</p>
 <ul>
 	<li><b>Start Time</b> measured in seconds</li>
