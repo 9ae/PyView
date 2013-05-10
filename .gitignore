@@ -1,0 +1,13 @@
+*.class
+*.pyc
+*.pyo
+historic_files
+libnidaqmx
+default_paradigm/sucrose00.xml
+saves
+test_input.py
+test_output.py
+test_thread.py
+test_tone.py
+test.py
+threadtest.py
