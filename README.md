@@ -30,5 +30,5 @@ V. Screenshots
 <table>
 <tr><td>Editor Mode</td><td>Simulation Mode</td></tr>
 <tr><td><img src="http://valour.me/pyview/pyview_complexedit.jpg" width="405" height="350"></td>
-<td><img src="http://valour.me/pyview/pyview_complexedit.jpg" wdith="500" height="301"></td></tr>
+<td><img src="http://valour.me/pyview/pyview_complexrun.jpg" wdith="500" height="301"></td></tr>
 </table>
