@@ -31,9 +31,3 @@ V. Screenshots
 <tr><td>Editor Mode</td><td>Simulation Mode</td></tr>
 <tr><td><img src="http://valour.me/pyview/PyVieweditor.jpg" width="405" height="435"></td><td><img src="http://valour.me/pyview/PyViewrun.jpg" wdith="496" height="300"></td></tr>
 </table>
-<!--
-1. Editor Mode
-<img src="http://valour.me/pyview/PyVieweditor.jpg" width="405" height="435">
-
-2. Simulation Mode
-<img src="http://valour.me/pyview/PyViewrun.jpg" wdith="496" height="300">-->
